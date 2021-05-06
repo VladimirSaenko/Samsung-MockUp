@@ -1,6 +1,6 @@
-# Samsung-MockUp-example
+# Samsung-MockUp
 
- Samsung Mock Up example
+ Samsung Mock Up
 
 Portfolio-3 {
 
