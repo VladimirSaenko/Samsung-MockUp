@@ -1,6 +1,6 @@
 # Samsung-MockUp
 
-Samsung Mock Up
+Samsung MockUp
 
 ![65734](https://user-images.githubusercontent.com/56477695/117507701-16f15c00-af90-11eb-9ee1-180c7c45bfe8.png)
 
