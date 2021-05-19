@@ -1,8 +1,8 @@
 # Samsung-MockUp
 
-Samsung MockUp
+Samsung MockUp example
 
-![65734](https://user-images.githubusercontent.com/56477695/117507701-16f15c00-af90-11eb-9ee1-180c7c45bfe8.png)
+![6643](https://user-images.githubusercontent.com/56477695/118874472-a1707e80-b8f3-11eb-862b-a67dbed6d1cb.png)
 
 Portfolio-3 {
 
