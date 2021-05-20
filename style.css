@@ -86,6 +86,10 @@ body {
     height: 25px;
 }
 
+.samsung {
+    visibility: visible;
+}
+
 .samsung img {
     width: 350px;
     height: 375px;
@@ -169,5 +173,9 @@ body {
         height: calc(100% * 291 / 362);
         top: calc(100% * 20 / 609);
         left: calc(100% * 72 / 609);
+    }
+
+    .samsung {
+        visibility: hidden;
     }
 }
