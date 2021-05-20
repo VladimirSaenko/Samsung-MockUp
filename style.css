@@ -165,9 +165,11 @@ body {
     .container .pc {
         width: 90%;
     }
+
     .container .pc img {
         width: 100%;
     }
+    
     .container .pc .imgBx {
         width: calc(100% * 465 / 609);
         height: calc(100% * 291 / 362);
