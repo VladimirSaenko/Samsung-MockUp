@@ -4,8 +4,4 @@
 
 ### Samsung MockUp example
 
-## Portfolio {
-
-### https://vladimirsaenko.github.io/Portfolio-3/sites/site-3/Samsung-MockUp/index.html
-
-### }
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-3/Samsung-MockUp/index.html
