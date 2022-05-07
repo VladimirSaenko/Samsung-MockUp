@@ -116,7 +116,7 @@ body {
     background-position: bottom;
 }
 
-@media(max-width:1110px) {
+@media(max-width: 1110px) {
     .container {
         flex-direction: column;
     }
